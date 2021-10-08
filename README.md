@@ -14,3 +14,6 @@ This is a faulty calculator it solves all the problems correctly except some and
 ## Features
 - The program takes only 2 input from the user at a time
 
+## Prerequesites
+
+- Python 3
